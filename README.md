@@ -12,3 +12,4 @@
 | [bind](/startups/bind/README.md) | | | | | | | | |
 | [NexusTrade](/startups/nexustrade/README.md) | | | | | | | | |
 | [SuperDuperDB](/startups/superduperdb/README.md) | | | | | | | | |
+- [yuri10199](https://github.com/yuri10199) – Exploring AI startups and contributing 💡
